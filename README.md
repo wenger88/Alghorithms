@@ -1,2 +1,0 @@
-# Alghorithms
-Created with CodeSandbox
